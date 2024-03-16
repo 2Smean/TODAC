@@ -27,7 +27,7 @@
 | <b>유서연</b> | <b>이승민</b> ||
 | <img src="https://github.com/cwt629/Jejugagga/assets/81515049/7454e7a5-2922-47e5-9217-c5418d1d221a" alt="유서연" width="90%" height="90%"> | <img src="https://github.com/cwt629/Jejugagga/assets/81515049/4a5ea456-ff46-4965-94b5-94d824922603" alt="이승민" width="90%" height="90%"> ||
 | [@yseoyeon0915](https://github.com/yseoyeon0915) | [@2Smean](https://github.com/2Smean) ||
-| - 회원 관리<br>- 문의 게시판 관리<br>- Usecase Diagram 작성 | - 커뮤니티 - 게시판<br>- 게시글 공유<br>- Usecase Diagram 작성 ||
+| - 회원 관리<br>- 문의 게시판 관리<br>- Usecase Diagram 작성 | - 커뮤니티<br>- 게시판<br>- 게시글 공유<br>- Usecase Diagram 작성 ||
 
 <br>
 
