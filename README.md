@@ -64,7 +64,7 @@
 
 -   [기능 구현 추적](https://acrobat.adobe.com/id/urn:aaid:sc:AP:75fda4e5-993c-46d5-8b5d-3e10e8a9eaf8)
 
--   **프로젝트 발표 영상**
+-   **프로젝트 발표 영상**<br>
     [![TODAC프로젝트](https://i.ytimg.com/vi/o5niu0Hq_1A/hqdefault.jpg)](https://www.youtube.com/watch?v=o5niu0Hq_1A&t=1588s)
 
 ```
@@ -72,7 +72,7 @@
 기술 소개 : 00:02:20 ~ 00:05:00
 ```
 
--   **TODAC 시연 영상**
+-   **TODAC 시연 영상**<br>
     [![TODAC프로젝트](https://i.ytimg.com/vi/2tgUH4aDxMA/hqdefault.jpg)](https://www.youtube.com/watch?v=2tgUH4aDxMA)
 
 ### <a name="section3" />👤역할 및 담당 업무 [🔝](#section0)
@@ -193,7 +193,6 @@
       </td>
     </tr>
   </table>
-<br>
 
 ---
 
