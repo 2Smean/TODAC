@@ -2,29 +2,29 @@
 
 > 네이버 클라우드 데브옵스 3기 Team YOU 心 - 파이널 프로젝트<br>이승민, 장원태, 이재영, 한충희, 김나혜, 김동현, 유서연
 
-## 🚀바로가기
+## <a name="section0" />🚀바로가기
 
-[**1.📱웹 앱 소개**](#📱웹-앱-소개--)
+### [1.📱웹 앱 소개](#section1)
 
-[**2.💼프로젝트 산출물**](#💼프로젝트-산출물--)
+### [2.💼프로젝트 산출물](#section2)
 
-[**3.👤역할 및 담당 업무**](#👤역할-및-담당-업무--)
+### [3.👤역할 및 담당 업무](#section3)
 
-[**4.⚙️담당 서브 시스템 구현 기능**](#⚙️담당-서브-시스템-구현-기능--) 
+### [4.⚙️담당 서브 시스템 구현 기능](#section4)
 
-[**5.♾️DevOps**](#♾️devops--) 
+### [5.♾️DevOps](#section5)
 
-[**6.🏗️CI/CD 구성**](#🏗️cd/cd-구성--) 
+### [6.🏗️CI/CD 구성](#section6)
 
-[**7.💽ERD**](#💽erd-🔝) 
+### [7.💽ERD](#section7)
 
-[**8.📊GitBranch 전략**](#📊gitbranch-전략--) 
+### [8.📊GitBranch 전략](#section8)
 
-[**9.✔️문제 해결 부분**](#✔️문제-해결-부분--)
+### [9.✔️문제 해결 부분](#section9)
 
-[**10.🔧아쉬운 점 및 추가하고 싶은 기능**](#🔧아쉬운-점-및-추가하고-싶은-기능--)
+### [10.🔧아쉬운 점 및 추가하고 싶은 기능](#section10)
 
-[**11.💭프로젝트 소감 및 의의**](#💭프로젝트-소감-및-의의--)
+### [11.💭프로젝트 소감 및 의의](#section11)
 
 <!-- [**11.usecasediagram**]() 추가?
 
@@ -32,7 +32,7 @@
 
 ---
 
-### 📱웹 앱 소개[🔝](#🚀바로가기)
+### <a name="section1" />📱웹 앱 소개 [🔝](#section0)
 
 > <b>T</b>his app may<br><b>O</b>ffer you<br> <b>D</b>ream<br> <b>A</b>nd<br> <b>C</b>omfort
 
@@ -44,7 +44,7 @@
 
 ➕ 주요 기능
 
-```
+<pre>
 ·상담사를 선택할 수 있고, 자신만의 상담사 커스텀 가능
 ·상담 요약본 및 진단서 제공
 ·소통을 위한 게시판 제공
@@ -52,9 +52,9 @@
 ·프로필을 꾸밀 수 있고, 업적기능을 통해 참여도 공유 가능
 ·1대1 문의 및 도움말 제공
 ·게임을 통하여 포인트 적립 가능
-```
+</pre>
 
-### 💼프로젝트 산출물 [🔝](#🚀바로가기)
+### <a name="section2" />💼프로젝트 산출물 [🔝](#section0)
 
 -   소스코드 <br> [Github - https://github.com/cwt629/TODAC](https://github.com/cwt629/TODAC)
 
@@ -75,7 +75,7 @@
 -   **TODAC 시연 영상**
     [![TODAC프로젝트](https://i.ytimg.com/vi/2tgUH4aDxMA/hqdefault.jpg)](https://www.youtube.com/watch?v=2tgUH4aDxMA)
 
-### 👤역할 및 담당 업무 [🔝](#🚀바로가기)
+### <a name="section3" />👤역할 및 담당 업무 [🔝](#section0)
 
 -   Cloud Native Operator : VPC구성, Subnet구성, LoadBalancer설정, SSL 인증, Cloud DB 설정, 도커 이미지 관리 등(Docker Compese, Docker File)
 -   담당 시스템 : 커뮤니티
@@ -83,7 +83,7 @@
 
 ---
 
-### ⚙️담당 서브 시스템 구현 기능 [🔝](#🚀바로가기)
+### <a name="section4" />⚙️담당 서브 시스템 구현 기능 [🔝](#section0)
 
 #### 1\. 게시글 작성, 수정, 삭제
 
@@ -197,7 +197,7 @@
 
 ---
 
-### ♾️DevOps [🔝](#🚀바로가기)
+## <a name="section5" />♾️DevOps [🔝](#section0)
 
 ![DevOps (1)](https://github.com/user-attachments/assets/b305d17c-6c7f-477c-94f6-8f63409d44e7)
 
@@ -215,7 +215,7 @@
 
 ---
 
-### CI/CD 구성 [🔝](#🚀바로가기)
+## <a name="section6" />🏗️CI/CD 구성 [🔝](#section0)
 
 ![Group 2](https://github.com/user-attachments/assets/ea8ddd60-b988-4011-9393-8bf8c3efa590)
 
@@ -246,19 +246,19 @@
 
 7. Docker 이미지 실행 (Spring Boot):가져온 Docker 이미지를 실행하여 Spring Boot 애플리케이션을 구동합니다.
    이는 실제 운영 환경에서 애플리케이션이 서비스되도록 하는 단계입니다.
-      </li>
-      </ul>
-      </details>
+   </li>
+   </ul>
+   </details>
 
 ---
 
-### 💽ERD [🔝](#🚀바로가기)
+## <a name="section7" />💽ERD [🔝](#section0)
 
 ![DB설계서](https://github.com/user-attachments/assets/32081985-aae8-4c97-b6bb-4f32c7329b3a)
 
 ---
 
-### GitBranch 전략 [🔝](#🚀바로가기)
+## <a name="section8" />📊GitBranch 전략 [🔝](#section0)
 
 ![gitbranch 전략](https://github.com/user-attachments/assets/b038eeeb-1a1c-4aaa-90d3-6134de6c24fd)
 
@@ -289,7 +289,7 @@
 
 ---
 
-### ✔️문제 해결 부분 [🔝](#🚀바로가기)
+## <a name="section9" />✔️문제 해결 부분 [🔝](#section0)
 
 #### 1. 코드 관련 부분
 
@@ -487,7 +487,7 @@ const handleCopyClipBoard = () => {
 
 ---
 
-### 🔧아쉬운 점 및 추가하고 싶은 기능
+## <a name="section9" />🔧아쉬운 점 및 추가하고 싶은 기능 [🔝](#section0)
 
 **1. 토큰 방식 인증, 인가**
 
@@ -597,7 +597,7 @@ const handleCopyClipBoard = () => {
 
 ---
 
-### 💭프로젝트 소감 및 의의 [🔝](#🚀바로가기)
+## <a name="section9" />💭프로젝트 소감 및 의의 [🔝](#section0)
 
 -   지난 한 달간의 프로젝트는 제게 여러 가지 측면에서 의미 있는 경험으로 남았습니다.  
     먼저, 게시판을 제작하며 CRUD를 토대로 전반적인 프론트엔드와 백엔드의 소통을 더욱 잘 이해할 수 있었고 새로운 기술과 도전에 부딪히는 경험을 쌓았습니다.  
