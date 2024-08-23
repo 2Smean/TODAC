@@ -486,7 +486,7 @@ const handleCopyClipBoard = () => {
 
 ---
 
-## <a name="section9" />🔧아쉬운 점 및 추가하고 싶은 기능 [🔝](#section0)
+## <a name="section10" />🔧아쉬운 점 및 추가하고 싶은 기능 [🔝](#section0)
 
 **1. 토큰 방식 인증, 인가**
 
@@ -596,7 +596,7 @@ const handleCopyClipBoard = () => {
 
 ---
 
-## <a name="section9" />💭프로젝트 소감 및 의의 [🔝](#section0)
+## <a name="section11" />💭프로젝트 소감 및 의의 [🔝](#section0)
 
 -   지난 한 달간의 프로젝트는 제게 여러 가지 측면에서 의미 있는 경험으로 남았습니다.  
     먼저, 게시판을 제작하며 CRUD를 토대로 전반적인 프론트엔드와 백엔드의 소통을 더욱 잘 이해할 수 있었고 새로운 기술과 도전에 부딪히는 경험을 쌓았습니다.  
