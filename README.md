@@ -252,7 +252,6 @@
 ---
 
 ## <a name="section7" />💽ERD [🔝](#section0)
-
 ![DB설계서](https://github.com/user-attachments/assets/32081985-aae8-4c97-b6bb-4f32c7329b3a)
 
 ---
