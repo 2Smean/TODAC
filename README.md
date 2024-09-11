@@ -499,7 +499,7 @@ const handleCopyClipBoard = () => {
 
 <li>추후 관련 지식 습득을 위한 키워드
 
--   추후 관련 지식 습득을 위한 키워드 : JWT, Authentication(인증), Authorization(인가, 권한 부여) </li>
+- JWT, Authentication(인증), Authorization(인가, 권한 부여) </li>
 </ul>
     </details>
 <br>
