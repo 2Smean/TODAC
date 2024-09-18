@@ -398,7 +398,6 @@ const showLoginPrompt = (message) => {
 </li>
         </ul>
 </details>
-<br>
 
 #### 2. 제한된 API 관련 부분
 
